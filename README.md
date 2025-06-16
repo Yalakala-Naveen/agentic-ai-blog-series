@@ -2,6 +2,7 @@
 This project extracts the latest Agentic AI blog posts from Medium, summarizes each post using state-of-the-art NLP models, and generates an overall summary. The goal is to build an AI that learns from Agentic AI blogs and eventually writes blog content autonomously.
 
 Project Structure:
+<pre><code>
 
 Agentic_AI_Project/
 ├── assets/              # Static files such as images, icons, or any media used in blogs or docs
@@ -21,6 +22,7 @@ Agentic_AI_Project/
 ├── README.md            # Project overview and documentation
 └── .gitignore           # Git ignore rules
 
+</pre></code>
 
 Installation:
 
