@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+summary_venv/
+genai_env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache and temp files
+*.pyc
+*.pyo
+
+# VSCode / IDE files
+.vscode/
+.idea/
+
+# dotenv environment variables
+.env
+
+# Model checkpoints or downloaded large files
+models/
+checkpoints/
