@@ -73,4 +73,4 @@ Continuous monitoring and updating as new Agentic AI blogs appear
 Contact:
 Your Name — yalakalanaveen789@gmail.com
 
-Project Link: https://github.com/YALAKALA-NAVEEN/Agentic_AI_Project
+Project Link: https://github.com/YALAKALA-NAVEEN/agentic-ai-blog-series
